@@ -3,6 +3,6 @@ Hola mundo en python
 
 El código del programa es el siguiente:
 
-```python
+'''python
 print "hola mundo!"
-```
+'''
